@@ -15,4 +15,4 @@ maintain: []
 
 # Dependency watch
 
-These entries cover the upstream platforms and updater used by the release artifacts.
+- Upstream desktop platforms and updater used by the release artifacts.
