@@ -1,0 +1,13 @@
+# Dependency watch for assign-desktop-releases
+# Upstream desktop platforms and updater used by the release artifacts.
+
+[dependencies]
+tauri = "https://github.com/tauri-apps/tauri/releases"
+tauri-plugins = "https://github.com/tauri-apps/plugins-workspace/releases"
+github-rest-api = "https://docs.github.com/en/rest/about-the-rest-api/api-versions"
+webview2 = "https://learn.microsoft.com/en-us/microsoft-edge/webview2/release-notes/"
+
+[dependencies.platform]
+macos = "https://developer.apple.com/documentation/macos-release-notes"
+
+[maintain]
