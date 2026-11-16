@@ -10,6 +10,7 @@ dependencies:
     url: https://developer.apple.com/documentation/macos-release-notes
   - name: WebView2
     url: https://learn.microsoft.com/en-us/microsoft-edge/webview2/release-notes/
+maintain: []
 ---
 
 # Dependency watch
