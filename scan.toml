@@ -10,4 +10,7 @@ webview2 = "https://learn.microsoft.com/en-us/microsoft-edge/webview2/release-no
 [dependencies.platform]
 macos = "https://developer.apple.com/documentation/macos-release-notes"
 
+[watch]
+external = ["tauri", "tauri-plugins", "github-rest-api", "webview2", "platform.macos"]
+
 [maintain]
